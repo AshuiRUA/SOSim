@@ -1,0 +1,33 @@
+OMIM:113620	TFAP2A	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:270400	DHCR7	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:107480	SALL1	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:142900	TBX5	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:161200	LMX1B	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:218600	RECQL4	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:243800	UBR1	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:119500	IRG6	{}
+OMIM:225750	TREX1	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:153400	FOXC2	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:175700	GLI3	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:121050	FBN2	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:305450	MED12	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:182212	SKI	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:101000	NF2	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:147920	MLL2	{}
+OMIM:236670	POMT1	{Lin=3, Resnik=1, Schlicker=3, PhenoSim=1, SOSim=1}
+OMIM:162200	NF1	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:265000	CHRNG	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:305400	FGD1	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:108120	TPM2	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:131300	TGFB1	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:191100	TSC1	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:303600	RPS6KA3	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:193700	MYH3	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:113650	EYA1	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:154500	TCOF1	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:122470	NIPBL	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:235730	ZEB2	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:180849	CREBBP	{Lin=2, Resnik=1, Schlicker=2, PhenoSim=1, SOSim=1}
+OMIM:176450	MNX1	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:236680	HYLS1	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:216550	VPS13B	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}

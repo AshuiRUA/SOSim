@@ -1,0 +1,5 @@
+OMIM:113620	TFAP2A	{Lin=1, Resnik=1, Schlicker=1, PhenoSim=1, SOSim=1}
+OMIM:113622-SALL1
+OMIM:113622不在HPO标注过的疾病中
+OMIM:113621-NF2
+OMIM:113621不在HPO标注过的疾病中

@@ -1,0 +1,4 @@
+OMIM:215140	ITGA2B	{Lin=2769, Resnik=2788, Schlicker=2786, PhenoSim=2802, SOSim=2904}
+OMIM:246450	ITGA2B	{Lin=479, Resnik=194, Schlicker=469, PhenoSim=242, SOSim=363}
+OMIM:120970	ITGA2B	{Lin=1272, Resnik=1025, Schlicker=1167, PhenoSim=771, SOSim=965}
+OMIM:187800	ITGA2B	{Lin=3, Resnik=1, Schlicker=3, PhenoSim=1, SOSim=1}
